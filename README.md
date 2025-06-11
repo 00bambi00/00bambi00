@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @00bambi00
 - 👀 I’m interested in AI tuning, Web developing, Application developing
-- 🌱 I’m currently learning computer engineering.
+- 🌱 I’m currently studying computer engineering.
 
 <!---
 00bambi00/00bambi00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
